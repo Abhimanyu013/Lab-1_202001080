@@ -39,6 +39,7 @@ Non-Functional Requirements
 
 4. Security
   a. The system should validate if the user is a member of the system or not. In case of a non member only browsing and searching of the book collection should be allowed.
+  b. The passwords should be encrypted and stored.
 
 5. Scalability
   a. The system should be able to handle a large number of data and it should be able to maintain a lossless database.
